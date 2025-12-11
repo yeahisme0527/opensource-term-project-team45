@@ -3,7 +3,7 @@ from transformers import pipeline
 def main():
     print("=== YehEun's Korean Sentiment Program ===")
 
-    # 한국어 전용 감정 분석 모델 (교안 예시와 동일 계열)
+    # 한국어 전용 감정 분석 모델 
     classifier = pipeline(
         "sentiment-analysis",
         model="WhitePeak/bert-base-cased-Korean-sentiment"
