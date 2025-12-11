@@ -1,4 +1,4 @@
-# Open Source SW Term Project - Team 45
+# ** Open Source SW Term Project - Team 45**
 ## 공통 README
 
 ## 👥 팀 구성
