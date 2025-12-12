@@ -27,8 +27,7 @@
 ---
 ## ▷ 코드 동작
 
-'''sh
-
+'''
 from transformers import pipeline
 
 def main():
@@ -62,7 +61,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
 '''
 
 ---
