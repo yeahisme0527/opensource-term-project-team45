@@ -1,6 +1,7 @@
 # 권다영의 오픈소스 프로젝트 - 한국어 욕설/비속어 탐지 프로그램
 ---
 ## ▷ 프로젝트 개요
+
 > 이 프로젝트는 한국어 문장을 입력하면 욕설/비속어 여부를 탐지하는 파이썬 프로그램입니다. 
 > HuggingFace의 사전 학습된 한국어 혐오 발언 탐지 모델을 활용하여 문장을 분류하고, 각 결과에 대한 확신도(score) 를 함께 출력합니다.
 
@@ -20,14 +21,12 @@
 - HuggingFace pipeline 기반 간단한 구현
 
 ---
-## ▷ 라벨 설명
-
----
 ## ▷ 데모 이미지
 <img width="1232" height="1288" alt="image" src="https://github.com/user-attachments/assets/8752dd2a-56fb-4e05-b35a-9cb6068139e3" />
 
 ---
 ## ▷ 코드 동작
+
 '''sh
 from transformers import pipeline
 
@@ -67,9 +66,20 @@ if __name__ == "__main__":
 ---
 ## ▷ 실행방법
 
+1. transformers와 torch 패키지를 설치
+2. 터미널에서 pip install transformers torch 명령어 실행
+3. 파일이 위치한 폴더로 이동 (day0034) -> cd day0034 명령어 사용
+4. python main.py 명령어 실행
 
 ---
-## ▷ 사용한 패키지와 그 version
+## ▷ 사용한 모델
+
+- 모델 이름: smilegate-ai/kor_unsmile
+- 설명: 한국어 혐오 표현 및 욕설 탐지를 위해 학습된 BERT 기반 텍스트 분류 모델
+🔗 [HuggingFace 링크](https://huggingface.co/smilegate-ai/kor_unsmile)
 
 ---
 ## ▷ 참고 자료
+
+🔗 [HuggingFace Transformers 공식 문서](https://huggingface.co/docs/transformers/index)
+🔗 [HuggingFace Model Hub](https://huggingface.co/models)
