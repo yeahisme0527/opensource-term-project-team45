@@ -76,9 +76,9 @@ if __name__ == "__main__":
 ---
 ## ▷ 사용한 모델
 
-- 모델 이름: smilegate-ai/kor_unsmile
-- 설명: 한국어 혐오 표현 및 욕설 탐지를 위해 학습된 BERT 기반 텍스트 분류 모델
-🔗 [HuggingFace 링크](https://huggingface.co/smilegate-ai/kor_unsmile)
+- 모델 : 🔗[smilegate-ai/kor_unsmile](https://huggingface.co/smilegate-ai/kor_unsmile)
+
+- 설명: 한국어 혐오 표현 및 욕설 탐지를 위해 학습된 BERT 기반 텍스트 분류 모델 
 
 ---
 ## ▷ 참고 자료
