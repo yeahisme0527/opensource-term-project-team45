@@ -31,7 +31,7 @@
 ## 📌 사용 예시
 
 ![Demo](demo.png)
->[main.py](main.py) 내의 `news_text` 내에 분류를 원하는 기사를 삽입 후 실행
+>[main.py](main.py) 내의 line29 `news_text` 내에 분류를 원하는 기사를 삽입 후 실행
 
 ---
 
