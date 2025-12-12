@@ -31,4 +31,4 @@
 - 김병준 : HuggingFace 기반 뉴스 요약 및 결과 분류 프로그램
 - 권다영 : HuggingFace 기반 한국어 욕설·혐오 표현 탐지 시스템
 - 이민서 :
-- 황예은 : Hugging Face를 이용한 한국어 감정 분석 프로그램
+- 황예은 : HuggingFace 기반 한국어 감정 분석 프로그램
