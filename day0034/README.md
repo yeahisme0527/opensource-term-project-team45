@@ -22,7 +22,7 @@
 
 ---
 ## ▷ 데모 이미지
-<img width="1232" height="1288" alt="image" src="https://github.com/user-attachments/assets/8752dd2a-56fb-4e05-b35a-9cb6068139e3" />
+<img src="demo.png" width="400">
 
 ---
 ## ▷ 코드 동작
