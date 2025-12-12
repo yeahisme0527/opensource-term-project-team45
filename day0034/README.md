@@ -68,10 +68,9 @@ if __name__ == "__main__":
 ---
 ## ▷ 실행방법
 
-1. transformers와 torch 패키지를 설치
-2. 터미널에서 pip install transformers torch 명령어 실행
-3. 파일이 위치한 폴더로 이동 (day0034) -> cd day0034 명령어 사용
-4. python main.py 명령어 실행
+1. transformers와 torch 패키지를 설치 - pip install transformers torch 명령어 실행
+2. 파일이 위치한 폴더로 이동 (day0034) -> cd day0034 명령어 사용
+3. python main.py 명령어 실행
 
 ---
 ## ▷ 사용한 모델
